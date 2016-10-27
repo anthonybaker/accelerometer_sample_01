@@ -1,0 +1,1 @@
+<?php header( 'Location: /simple_accelerometer.html' ) ;  ?>
